@@ -13,6 +13,7 @@ We began by inspecting the dataset for missing values. Any rows containing incom
 
 ### Top 10 Highest Paying Jobs
 ![Gender Distribution](https://github.com/Mannat-1102/employee-salary-prediction/blob/45e22f7506557d8cf64112fb2c68a7f648e71709/Top10_Alternate.png
+<img width="2400" height="1600" alt="Image" src="https://github.com/user-attachments/assets/926c4db8-04b5-4e69-b4fd-8b48f755db32" />
 *A Bar plot depicting the highest paying job titles versus the mean salary.*
 
 ### Distribution of Continuous Variables

@@ -12,7 +12,7 @@ We checked for missing values in the dataset and removed rows with missing data,
 
 
 ### Top 10 Highest Earning Professions
-![Gender Distribution](images/Top10.png)
+![Gender Distribution](images/Top10.png)Top10.png
 *A Bar plot depicting the highest paying job titles versus the mean salary.*
 
 ### Distribution of Continuous Variables

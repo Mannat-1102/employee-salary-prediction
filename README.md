@@ -12,20 +12,19 @@ We began by inspecting the dataset for missing values. Any rows containing incom
 
 
 ### Top 10 Highest Paying Jobs
-![Gender Distribution](https://github.com/Mannat-1102/employee-salary-prediction/blob/45e22f7506557d8cf64112fb2c68a7f648e71709/Top10_Alternate.png
 <img width="2400" height="1600" alt="Image" src="https://github.com/user-attachments/assets/926c4db8-04b5-4e69-b4fd-8b48f755db32" />
 *A Bar plot depicting the highest paying job titles versus the mean salary.*
 
 ### Distribution of Continuous Variables
-![Age Distribution]https://github.com/Mannat-1102/employee-salary-prediction/blob/45e22f7506557d8cf64112fb2c68a7f648e71709/WhatsApp%20Image%202025-07-28%20at%2017.20.36.jpeg
+![Image](https://github.com/user-attachments/assets/e7c2856a-97cd-40d2-ad78-d9b2a5a002d0)
 *This histogram shows the distribution of continuous variables in the dataset.*
 
 ### Education and Gender Level Breakdown
-![Salary vs. Education]https://github.com/Mannat-1102/employee-salary-prediction/blob/45e22f7506557d8cf64112fb2c68a7f648e71709/age%20exper.jpeg
+<img width="2800" height="1000" alt="Image" src="https://github.com/user-attachments/assets/8b663241-080f-4b59-8054-b37e2d2f5d97" />
 *A plot displaying the Education Level and Gender.*
 
 ### Correlation Heatmap
-![Correlation Heatmap]https://github.com/Mannat-1102/employee-salary-prediction/blob/45e22f7506557d8cf64112fb2c68a7f648e71709/Heatmap_Alt.png
+<img width="1600" height="1400" alt="Image" src="https://github.com/user-attachments/assets/2e0699f4-55df-4c67-a4a2-25ae46b44536" />
 *A heatmap illustrating the correlation between different features.*
 
 ## Model Development
@@ -51,7 +50,7 @@ These metrics helped us evaluate how well each model performed and predicted sal
 
 
 ### Feature Importance
-![Feature Importance]https://github.com/Mannat-1102/employee-salary-prediction/blob/45e22f7506557d8cf64112fb2c68a7f648e71709/Feature_Importance_Alt.png
+<img width="2000" height="1200" alt="Image" src="https://github.com/user-attachments/assets/44a93742-c05a-4036-9f09-a07a24b4b632" />
 *A bar chart depicting the importance of different features in predicting salary.*
 
 ## Results

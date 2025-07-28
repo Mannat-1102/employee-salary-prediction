@@ -12,19 +12,19 @@ We began by inspecting the dataset for missing values. Any rows containing incom
 
 
 ### Top 10 Highest Paying Jobs
-![Gender Distribution](images/Top10.png)Top10.png
+![Gender Distribution](https://github.com/Mannat-1102/employee-salary-prediction/blob/45e22f7506557d8cf64112fb2c68a7f648e71709/Top10_Alternate.png
 *A Bar plot depicting the highest paying job titles versus the mean salary.*
 
 ### Distribution of Continuous Variables
-![Age Distribution](images/Distribution.png)
+![Age Distribution]https://github.com/Mannat-1102/employee-salary-prediction/blob/45e22f7506557d8cf64112fb2c68a7f648e71709/WhatsApp%20Image%202025-07-28%20at%2017.20.36.jpeg
 *This histogram shows the distribution of continuous variables in the dataset.*
 
 ### Education and Gender Level Breakdown
-![Salary vs. Education](images/ed&gender_distribution.png)
+![Salary vs. Education]https://github.com/Mannat-1102/employee-salary-prediction/blob/45e22f7506557d8cf64112fb2c68a7f648e71709/age%20exper.jpeg
 *A plot displaying the Education Level and Gender.*
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/Heatmap.png)
+![Correlation Heatmap]https://github.com/Mannat-1102/employee-salary-prediction/blob/45e22f7506557d8cf64112fb2c68a7f648e71709/Heatmap_Alt.png
 *A heatmap illustrating the correlation between different features.*
 
 ## Model Development
@@ -50,7 +50,7 @@ These metrics helped us evaluate how well each model performed and predicted sal
 
 
 ### Feature Importance
-![Feature Importance](images/Feature_Imp.png)
+![Feature Importance]https://github.com/Mannat-1102/employee-salary-prediction/blob/45e22f7506557d8cf64112fb2c68a7f648e71709/Feature_Importance_Alt.png
 *A bar chart depicting the importance of different features in predicting salary.*
 
 ## Results
